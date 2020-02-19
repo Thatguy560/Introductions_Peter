@@ -1,2 +1,3 @@
-Hello, Anton!
+puts "Hello Anton"
+puts "Hello Pete!"
 
